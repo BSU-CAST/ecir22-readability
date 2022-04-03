@@ -1,0 +1,4 @@
+# Project specific
+.idea/
+.ipynb_checkpoints/
+submission/
