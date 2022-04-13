@@ -58,13 +58,13 @@ Recommending Queries for Children”* and request the `ChildrenDict.tsv` file of
 Please cite the following works if you use this repository for your research.
 
 ```
-@inproceedings{allen2022super,
-  title={},
+@inproceedings{allen2022supercalifragilisticexpialidocious,
+  title={Supercalifragilisticexpialidocious: Why Using the “Right” Readability Formula in Children’s Web Search Matters},
   author={Allen, Garrett and Milton, Ashlee and Wright, Katherine Landau and Fails, Jerry Alan and Kennington, Casey and Pera, Maria Soledad},
   booktitle={European Conference on Information Retrieval},
-  pages={},
+  pages={3--18},
   year={2022},
-  organization={}
+  organization={Springer}
 }
 
 @inproceedings{madrazo2018looking,
