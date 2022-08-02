@@ -47,11 +47,12 @@ extension source from existing datasets, and are therefore not included in this 
 order to use the formula we provide, you will need to complete the following steps, after cloning:
 
  1. Download and extract the [Age of Acquisition Dataset](http://crr.ugent.be/papers/AoA_ratings_Kuperman_et_al_BRM.zip)
- 2. Contact the authors of *“Looking for the Movie Seven or Sven from the Movie Frozen?: A Multi-perspective Strategy for 
-Recommending Queries for Children”* and request the `ChildrenDict.tsv` file of vocabulary terms.
- 3. Place both files in the `/spache_allen/vocabulary`directory
+ 2. Download and extract the [ChildrenDict.tsv](https://scholarworks.boisestate.edu/context/cs_scripts/article/1004/type/native/viewcontent)
+file of vocabulary terms from *“Looking for the Movie Seven or Sven from the Movie Frozen?: A Multi-perspective Strategy for 
+Recommending Queries for Children”*
+ 3. Place both files in the `/spache_allen/vocabulary` directory
  4. Execute the `build_vocabulary.py` script, which can be found in `/spache_allen`
- 5. Use the Spache-Allen formula in your project.
+ 5. Use the Spache-Allen formula in your project
 
 ## Citations
 
